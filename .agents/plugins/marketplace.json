@@ -1,0 +1,22 @@
+{
+  "name": "workspace-marketplace",
+  "interface": {
+    "displayName": "Workspace Plugins Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "unity-agent-plugin",
+      "displayName": "Unity Agent Plugin",
+      "description": "Unity Technologies official plugin containing 32+ curated skills for game development, UI, networking, monetization, and performance optimization.",
+      "source": {
+        "source": "local",
+        "path": "./unity-agent-plugin"
+      },
+      "policy": {
+        "installation": "INSTALLED",
+        "authentication": "NONE"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
