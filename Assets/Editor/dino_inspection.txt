@@ -1,0 +1,117 @@
+=== DINO ASSETS INSPECTION ===
+
+--- Apatosaurus.fbx ---
+  AnimationClip: 'Armature|Stegosaurus_Death', length: 1.58s, wrapMode: Default
+  AnimationClip: 'Armature|Apatosaurus_Walk', length: 5.21s, wrapMode: Default
+  AnimationClip: 'Armature|Apatosaurus_Run', length: 1.46s, wrapMode: Default
+  AnimationClip: 'Armature|Apatosaurus_Jump', length: 1.83s, wrapMode: Default
+  AnimationClip: 'Armature|Apatosaurus_Idle', length: 4.25s, wrapMode: Default
+  AnimationClip: 'Armature|Apatosaurus_Attack', length: 1.88s, wrapMode: Default
+  Mesh: 'Cylinder', submeshes: 2, vertices: 2552
+  Material: 'Material', shader: 'Universal Render Pipeline/Lit'
+  Material: 'Brown', shader: 'Universal Render Pipeline/Lit'
+  AnimationClip: '__preview__Armature|Stegosaurus_Death', length: 1.58s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Apatosaurus_Walk', length: 5.21s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Apatosaurus_Run', length: 1.46s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Apatosaurus_Jump', length: 1.83s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Apatosaurus_Idle', length: 4.25s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Apatosaurus_Attack', length: 1.88s, wrapMode: Default
+  Summary: 12 clips, 1 meshes, 2 materials
+
+--- Parasaurolophus.fbx ---
+  AnimationClip: 'Armature|Parasaurolophus_Walk', length: 1.17s, wrapMode: Default
+  AnimationClip: 'Armature|Parasaurolophus_Run', length: 0.54s, wrapMode: Default
+  AnimationClip: 'Armature|Parasaurolophus_Jump', length: 1.33s, wrapMode: Default
+  AnimationClip: 'Armature|Parasaurolophus_Idle', length: 2.50s, wrapMode: Default
+  AnimationClip: 'Armature|Parasaurolophus_Death', length: 1.29s, wrapMode: Default
+  AnimationClip: 'Armature|Parasaurolophus_Attack', length: 0.83s, wrapMode: Default
+  Mesh: 'Parasaurolophus', submeshes: 4, vertices: 2612
+  Material: 'Red', shader: 'Universal Render Pipeline/Lit'
+  Material: 'LightYellow', shader: 'Universal Render Pipeline/Lit'
+  Material: 'LightGreen', shader: 'Universal Render Pipeline/Lit'
+  Material: 'Green', shader: 'Universal Render Pipeline/Lit'
+  AnimationClip: '__preview__Armature|Parasaurolophus_Walk', length: 1.17s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Parasaurolophus_Run', length: 1.00s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Parasaurolophus_Jump', length: 1.33s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Parasaurolophus_Idle', length: 2.50s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Parasaurolophus_Death', length: 1.29s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Parasaurolophus_Attack', length: 1.00s, wrapMode: Default
+  Summary: 12 clips, 1 meshes, 4 materials
+
+--- Stegosaurus.fbx ---
+  AnimationClip: 'Armature|Stegosaurus_Walk', length: 2.92s, wrapMode: Default
+  AnimationClip: 'Armature|Stegosaurus_Run', length: 0.79s, wrapMode: Default
+  AnimationClip: 'Armature|Stegosaurus_Jump', length: 1.46s, wrapMode: Default
+  AnimationClip: 'Armature|Stegosaurus_Idle', length: 2.54s, wrapMode: Default
+  AnimationClip: 'Armature|Stegosaurus_Death', length: 1.58s, wrapMode: Default
+  AnimationClip: 'Armature|Stegosaurus_Attack', length: 1.88s, wrapMode: Default
+  Mesh: 'Stegosaurus', submeshes: 3, vertices: 4196
+  Material: 'LightBrown', shader: 'Universal Render Pipeline/Lit'
+  Material: 'DarkBrown', shader: 'Universal Render Pipeline/Lit'
+  Material: 'Brown', shader: 'Universal Render Pipeline/Lit'
+  AnimationClip: '__preview__Armature|Stegosaurus_Walk', length: 2.92s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Stegosaurus_Run', length: 1.00s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Stegosaurus_Jump', length: 1.46s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Stegosaurus_Idle', length: 2.54s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Stegosaurus_Death', length: 1.58s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Stegosaurus_Attack', length: 1.88s, wrapMode: Default
+  Summary: 12 clips, 1 meshes, 3 materials
+
+--- Trex.fbx ---
+  AnimationClip: 'Armature|TRex_Walk', length: 1.38s, wrapMode: Default
+  AnimationClip: 'Armature|TRex_Run', length: 0.92s, wrapMode: Default
+  AnimationClip: 'Armature|TRex_Jump', length: 1.46s, wrapMode: Default
+  AnimationClip: 'Armature|TRex_Idle', length: 2.50s, wrapMode: Default
+  AnimationClip: 'Armature|TRex_Death', length: 1.58s, wrapMode: Default
+  AnimationClip: 'Armature|TRex_Attack', length: 1.17s, wrapMode: Default
+  Mesh: 'Trex', submeshes: 5, vertices: 3094
+  Material: 'Red', shader: 'Universal Render Pipeline/Lit'
+  Material: 'LightYellow', shader: 'Universal Render Pipeline/Lit'
+  Material: 'LightGreen', shader: 'Universal Render Pipeline/Lit'
+  Material: 'Green', shader: 'Universal Render Pipeline/Lit'
+  Material: 'Black', shader: 'Universal Render Pipeline/Lit'
+  AnimationClip: '__preview__Armature|TRex_Walk', length: 1.38s, wrapMode: Default
+  AnimationClip: '__preview__Armature|TRex_Run', length: 1.00s, wrapMode: Default
+  AnimationClip: '__preview__Armature|TRex_Jump', length: 1.46s, wrapMode: Default
+  AnimationClip: '__preview__Armature|TRex_Idle', length: 2.50s, wrapMode: Default
+  AnimationClip: '__preview__Armature|TRex_Death', length: 1.58s, wrapMode: Default
+  AnimationClip: '__preview__Armature|TRex_Attack', length: 1.17s, wrapMode: Default
+  Summary: 12 clips, 1 meshes, 5 materials
+
+--- Triceratops.fbx ---
+  AnimationClip: 'Armature|Triceratops_Walk', length: 2.92s, wrapMode: Default
+  AnimationClip: 'Armature|Triceratops_Run', length: 0.79s, wrapMode: Default
+  AnimationClip: 'Armature|Triceratops_Jump', length: 1.67s, wrapMode: Default
+  AnimationClip: 'Armature|Triceratops_Idle', length: 2.54s, wrapMode: Default
+  AnimationClip: 'Armature|Triceratops_Death', length: 1.79s, wrapMode: Default
+  AnimationClip: 'Armature|Triceratops_Attack', length: 0.75s, wrapMode: Default
+  Mesh: 'Triceratops', submeshes: 3, vertices: 2458
+  Material: 'Purple', shader: 'Universal Render Pipeline/Lit'
+  Material: 'LightBrown', shader: 'Universal Render Pipeline/Lit'
+  Material: 'Brown', shader: 'Universal Render Pipeline/Lit'
+  AnimationClip: '__preview__Armature|Triceratops_Walk', length: 2.92s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Triceratops_Run', length: 1.00s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Triceratops_Jump', length: 1.67s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Triceratops_Idle', length: 2.54s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Triceratops_Death', length: 1.79s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Triceratops_Attack', length: 1.00s, wrapMode: Default
+  Summary: 12 clips, 1 meshes, 3 materials
+
+--- Velociraptor.fbx ---
+  AnimationClip: 'Armature|Velociraptor_Walk', length: 2.42s, wrapMode: Default
+  AnimationClip: 'Armature|Velociraptor_Run', length: 0.54s, wrapMode: Default
+  AnimationClip: 'Armature|Velociraptor_Jump', length: 1.13s, wrapMode: Default
+  AnimationClip: 'Armature|Velociraptor_Idle', length: 2.50s, wrapMode: Default
+  AnimationClip: 'Armature|Velociraptor_Death', length: 1.29s, wrapMode: Default
+  AnimationClip: 'Armature|Velociraptor_Attack', length: 0.83s, wrapMode: Default
+  Mesh: 'Velociraptor', submeshes: 3, vertices: 2284
+  Material: 'LightBrown', shader: 'Universal Render Pipeline/Lit'
+  Material: 'Brown', shader: 'Universal Render Pipeline/Lit'
+  Material: 'Black', shader: 'Universal Render Pipeline/Lit'
+  AnimationClip: '__preview__Armature|Velociraptor_Walk', length: 2.42s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Velociraptor_Run', length: 1.00s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Velociraptor_Jump', length: 1.13s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Velociraptor_Idle', length: 2.50s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Velociraptor_Death', length: 1.29s, wrapMode: Default
+  AnimationClip: '__preview__Armature|Velociraptor_Attack', length: 1.00s, wrapMode: Default
+  Summary: 12 clips, 1 meshes, 3 materials
